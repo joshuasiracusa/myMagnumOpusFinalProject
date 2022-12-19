@@ -40,6 +40,23 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"fontface" : 2,
+					"id" : "obj-23",
+					"linecount" : 6,
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 164.0, 729.0, 201.0, 89.0 ],
+					"presentation" : 1,
+					"presentation_linecount" : 6,
+					"presentation_rect" : [ 565.5, 135.0, 201.0, 89.0 ],
+					"text" : "*File opens with errors on sflist~ sounds, but the piece still functions; occassionally, the poly.sampler will not load the patch cables to mutemap & busymap ==>restart patch if that happens",
+					"textcolor" : [ 0.011765, 0.396078, 0.752941, 1.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"fontface" : 3,
 					"id" : "obj-19",
 					"linecount" : 2,
